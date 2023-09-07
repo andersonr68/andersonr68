@@ -1,11 +1,29 @@
+body {
+    background-color: black;
+}
+
 #title {
-    font-size:50px;
+    font-size:100px;
     text-align: center;
-    color:blue;
+    color:white;
  }
 
 #main_subtitle {
     text-align: center;
-    color: black;
-    font-size: 30px;
+    color: white;
+    font-size: 50px;
+}
+
+#main_info {
+    color: white;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#listings {
+    color: white;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
 }
